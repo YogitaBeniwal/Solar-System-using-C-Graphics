@@ -1,4 +1,4 @@
-# Solar System using C Graphics
+# Solar System using C Graphics created in 2021
 
 This repository contains a C program to visualize the solar system using graphics in C. The program displays the orbits of the planets and their motion around the sun.
 
